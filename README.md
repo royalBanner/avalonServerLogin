@@ -9,9 +9,9 @@ L2J Server: Login is the authentication server, users are redirected to a game s
 Links
 ---
 
-- [Web Site](http://www.l2jserver.com)
+- [Web Site](http://www.l2avalon.com)
 
-- [Forums](http://www.l2jserver.com/forum/)
+- [Forums](We don't have forums yet.)
 
 - [Discord](https://discord.gg/AzHh7e2Sej)
 
